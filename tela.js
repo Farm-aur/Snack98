@@ -7,4 +7,3 @@ const tela ={
         canvasCtx.fillRect(0,70,this.largura,this.altura);
     }
     }
-tela.desenhar();
